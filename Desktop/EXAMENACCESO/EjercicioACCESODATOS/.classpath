@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/javax.annotation.jar"/>
+	<classpathentry kind="lib" path="lib/javax.ejb.jar"/>
+	<classpathentry kind="lib" path="lib/javax.jms.jar"/>
+	<classpathentry kind="lib" path="lib/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="lib/javax.resource.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet.jsp.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet.jsp.jstl.jar"/>
+	<classpathentry kind="lib" path="lib/javax.transaction.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/codemodel.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/db4o-8.0.276.16149-all-java5.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/derby.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/dtd-parser.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/istack-commons-runtime.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/istack-commons-tools.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/javax.activation-api.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/jaxb-runtime.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/kxml2-min-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/relaxng-datatype.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/rngom.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/stax-ex.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/txw2.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/xsom.jar"/>
+	<classpathentry kind="lib" path="/Users/lucasbahamondestoro/Desktop/TODO/AccesoDatos/lib/xstream-1.4.18.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
